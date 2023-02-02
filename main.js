@@ -10,7 +10,7 @@ typeof decimalExample; //number w JS, w innych językach często float czy decim
 const hexNumber = 0xff; //znamy z css czyli ff to 255 w systemie dziesiętnym
 
 // Mamy system ósemkowy czy binarny. System binarny to prefiks 0b
-// console.log(0b011101)
+console.log(0b011101)
 
 // notacja naukowa (e)
 console.log(5e2)
